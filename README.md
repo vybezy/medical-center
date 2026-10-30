@@ -1,6 +1,6 @@
-# Medical Centre Management System
+# Medical Center Management System
 
-A command-line Java application that manages a diagnostic centre's doctors, patients, examinations and appointments.
+A command-line Java application that manages a diagnostic center's doctors, patients, examinations and appointments.
 Data is saved to text files on exit and loaded again on start.
 
 Team project (3 students) for *Computer Programming with Java*
